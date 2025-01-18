@@ -16,9 +16,8 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+<!--
 ### 📊 Stats
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyacraft&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=biyacraft&theme=gruvbox&border_radius=4.5)
@@ -27,7 +26,7 @@
 
 [![My github activity](https://github-readme-activity-graph.vercel.app/graph?username=biyacraft&theme=github-compact)](https://github.com/biyacraft/github-readme-activity-graph)
 
-
+-->
 
 ### 🌐 Here is my [Portfolio](https://biyacraft.vercel.app/)
 
