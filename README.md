@@ -18,5 +18,5 @@ TypeScript · React · Next.js · Node.js · Python · C++ · Git · Linux
 
 ### 📫 Contact
 [Email](mailto:ayalkbettesfahun@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/ayalkbet-tesfahun)  
-[GitHub](https://github.com/biyacraft)
+[LinkedIn](https://www.linkedin.com/in/ayalkbettesfahun/)  
+[GitHub](https://github.com/biyapx)
